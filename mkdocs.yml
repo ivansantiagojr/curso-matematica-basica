@@ -1,8 +1,7 @@
-site_name: Curso template mkdocs
-site_url: https://fastapidozero.dunossauro.com
+site_name: Curso de Matemática Básica
 docs_dir: aulas
-repo_url: https://github.com/dunossauro/fastapi-do-zero
-repo_name: dunossauro/fastapi-do-zero
+repo_url: https://github.com/ivansantiagojr/curso-matematica-basica
+repo_name: ivansantiagojr/curso-matematica-basica
 edit_uri: tree/main/aulas
 theme:
   name: material
@@ -15,12 +14,12 @@ theme:
     - search.share
   palette:
     - scheme: slate
-      primary: deep purple
+      primary: red
       toggle:
         icon: material/weather-sunny
         name: Modo claro
     - scheme: default
-      primary: deep purple
+      primary: red
       toggle:
         icon: material/weather-night
         name: Modo noturno
@@ -58,24 +57,11 @@ plugins:
   - git-revision-date-localized
   - social
   - with-pdf:
-      author:  Fulano de Tal
-      cover_title: Título do Curso
-      cover_subtitle: Subtítulo
+      author: Ivan Santiago
+      cover_title: Matemática Básica para Adultos
       copyright: CC BY-NC-SA
       toc_level: 6
       enabled_if_env: ENABLE_PDF_EXPORT
       toc_title: Índice
 extra_css:
   - stylesheets/extra.css
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/dunossauro
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/dunossauro
-    - icon: fontawesome/brands/youtube
-      link: https://youtube.com/dunossauro
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/dunossauro
-    - icon: fontawesome/brands/tiktok
-      link: https://www.tiktok.com/@dunossauro
