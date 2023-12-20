@@ -35,7 +35,10 @@ Esse curso não é focado em vestibulares, concursos ou similares. O objetivo aq
 
 ## 💰 Esse curso é gratuito?
 
-SIM! Esse curso foi todo desenvolvido [de forma aberta](#licenca){:target="\_blank"}. Caso você sinta vontade de contribuir, você pode me pagar um café por pix! Chave aleatória: 8a72cf6f-0ab2-47eb-8a89-e08244851073.
+SIM! Esse curso foi todo desenvolvido [de forma aberta](#licenca){:target="\_blank"}. Caso você sinta vontade de contribuir, você pode me pagar um café por pix! Chave aleatória: 
+```
+8a72cf6f-0ab2-47eb-8a89-e08244851073
+```
 
 ## Conheça o professor e motivações
 
